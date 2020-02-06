@@ -1,0 +1,37 @@
+html{
+	 font-size: 18px;  /* px means pixels*/
+	font-family: 'Josefin Sans', sans-serif;
+
+	background-color: #AEB6BF;
+}
+
+h1{
+	font-size: 60px;
+	text-align: center;
+
+	margin: 0;
+	padding: 20px 0;color
+	color: black;
+	text-shadow: 3px 3px 1px black;
+
+}
+
+p,li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+body{
+	width: 800px;
+	margin: 0 auto;
+	background-color: #AEB6BF;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+	width: 550px;
+}
